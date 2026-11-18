@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://meravcosmetic-stack.github.io/merav/sitemap.xml
